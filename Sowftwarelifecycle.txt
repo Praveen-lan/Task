@@ -1,0 +1,45 @@
+What is Software Lifecycle?
+
+Descrption:
+Software Life Cycle is the process used to develop, test, and maintain software step by step.
+It defines all phases from idea to final product delivery.
+It helps in building quality software in a structured and efficient way.
+================
+
+Flow representation:
+===============
+Requirement Gathering
+Understanding what the user or client needs from the software.
+==============
+
+
+Planning
+Deciding timeline, resources, cost, and how the project will be executed.
+=======================
+
+
+Design
+Creating system architecture and design of how the software will work.
+========================
+
+
+Development
+Writing code to build the actual software.
+==================
+
+
+Testing
+Finding and fixing errors to ensure the software works properly.
+======================
+
+
+Deployment
+Releasing the software to users.
+=========================
+
+
+Maintenance
+Updating, fixing bugs, and improving the software after release.
+==============================================================================================================
+
+
