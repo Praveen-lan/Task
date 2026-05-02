@@ -1,0 +1,45 @@
+What is Jira?
+
+Descrption:
+========
+Jira is a project management and issue-tracking tool used in software development.
+It helps teams plan, track, and manage tasks and bugs efficiently.
+It is widely used in Agile methodologies like Scrum and Kanban.
+
+============
+Flow Representation:
+============
+Create Issue
+A task, bug, or story is created in Jira.
+===================
+
+
+Backlog
+All issues are stored and prioritized for future work.
+=============================
+
+
+Sprint Planning
+Selected issues are moved into a sprint for development.
+==============================
+
+
+In Progress
+Team members start working on assigned tasks.
+========================
+
+
+Testing
+Completed tasks are tested for quality and correctness.
+===================
+
+
+Review
+Work is reviewed and feedback is given.
+=========================
+
+
+Done
+Final tasks are completed and marked as finished.
+=========================
+

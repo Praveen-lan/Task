@@ -1,0 +1,44 @@
+what is Scrum?
+
+Descrption:
+Scrum is an Agile framework used to manage and complete complex projects.
+It divides work into small time periods called sprints for faster delivery.
+It focuses on teamwork, regular feedback, and continuous improvement.
+
+flow Representation:
+=============
+
+Product Backlog
+List of all features, tasks, and requirements for the project.
+===================
+
+
+Sprint Planning
+Selecting tasks from the backlog to work on in the sprint.
+============================
+
+
+Sprint (Execution)
+Team works on tasks during a fixed time period (usually 2–4 weeks).
+=========================
+
+
+Daily Scrum (Meeting)
+Short daily meeting to discuss progress and issues.
+=====================
+
+
+Development & Testing
+Building the product and checking for errors.
+=====================
+
+
+Sprint Review
+Showing completed work to stakeholders and getting feedback.
+==================
+
+
+Sprint Retrospective
+Discussing what went well and what can be improved for next sprint.
+================
+
