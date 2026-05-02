@@ -1,0 +1,27 @@
+ What is Agile?
+ 
+Descrption:Agile is a flexible software development approach where work is done in small steps and improved continuously based on feedback.
+It focuses on teamwork, quick delivery, and adapting to change instead of following a fixed plan.
+
+flowRepresentation:
+==================
+Requirement Gathering:
+Collecting and understanding what the client or users need from the software.
+============
+Planning (Sprint Planning):
+Deciding what tasks to do in the current sprint and how to complete them.
+============
+Design:
+Creating the structure and layout of the system before development starts.
+=============
+Development:
+Writing the actual code to build the software features.
+==============
+Testing:
+Checking the software for errors and ensuring it works correctly.
+=====================
+Review (Feedback from Client):
+Showing the work to the client and collecting feedback for improvements.
+======================
+Deployment & Iteration (Repeat Cycle):
+Releasing the software to users and repeating the process for further improvements.

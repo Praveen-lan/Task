@@ -1,0 +1,27 @@
+Difference between Traditional vs Agile?
+
+Descrption:
+Traditional model follows a fixed, step-by-step process where changes are hard to make after planning.
+
+Agile model is flexible, works in small cycles, and easily adapts to changes based on feedback.
+===========
+
+Flow Representation:
+
+Traditional:
+
+Requirement Gathering
+Design
+Development
+Testing
+Deployment
+
+Agile:
+
+Requirement Gathering
+Sprint Planning
+Design
+Development
+Testing
+Review
+Deployment & Iteration
